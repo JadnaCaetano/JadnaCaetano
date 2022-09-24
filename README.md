@@ -1,16 +1,12 @@
-### Hi there 👋
+Hi! I'm Jadna Caetano.
 
-<!--
-**JadnaCaetano/JadnaCaetano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently: Student at University of Palhoça.
+I'm Currently studying: Software development.
+Check out my Linkedin: https://www.linkedin.com/in/jadna-caetano-b327b7233/ 
+Check out my GitHub repository.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://www.twitch.tv/JadnaCaetano" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href = "mailto:jadna.caetano@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jadna-caetano-b327b7233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>

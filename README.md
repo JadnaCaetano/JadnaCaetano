@@ -1,10 +1,8 @@
 Hi! I'm Jadna Caetano. 
 
-● Currently: Student at University of Palhoça.
+I study software development at Senac University in Palhoça. 💻
 
-● I'm Currently studying: Software development 💻
-
-Check out my GitHub repository.
+Check out my GitHub repository:
 
 <div>
 <a href="https://github.com/JadnaCaetano">

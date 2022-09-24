@@ -2,7 +2,7 @@ Hi! I'm Jadna Caetano.
 
 ● Currently: Student at University of Palhoça.
 
-● I'm Currently studying: Software development.
+● I'm Currently studying: Software development 💻
 
 Check out my GitHub repository.
 

@@ -3,6 +3,9 @@ I study software development at Senac University in Palhoça. 💻
 
 Check out my GitHub repository:
 
+👀 Stats
+
+
 <div>
 <a href="https://github.com/JadnaCaetano">
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadnaCaetano&layout=compact&langs_count=7&theme=dracula"/>

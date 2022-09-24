@@ -9,6 +9,7 @@ Check out my GitHub repository:
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JadnaCaetano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
+  
 
 <div>
 <a href = "mailto:jadna.caetano@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

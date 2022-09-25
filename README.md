@@ -1,6 +1,10 @@
 <h1 align="center"> Hi! I'm Jadna Caetano.</h1>
 
-> :construction: I study software development at Senac University in Palhoça.:construction:
+<h4 align="center"> 
+    :construction: I study software development at Senac University in Palhoça.  :construction:
+</h4>
+
+
 
 
 

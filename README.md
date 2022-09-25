@@ -1,7 +1,7 @@
 <h1 align="center"> Hi! I'm Jadna Caetano.</h1>
 
 <h4 align="center"> 
-     I study software development at Senac University in Palhoça.
+     I study software development at Senac University.
 </h4>
 
 

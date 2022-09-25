@@ -1,7 +1,6 @@
 Hi! I'm Jadna Caetano. 
 I study software development at Senac University in Palhoça. 💻
 
-Check out my GitHub repository:
 
 
 

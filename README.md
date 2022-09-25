@@ -4,9 +4,6 @@
      I study software development at Senac University.
 </h4>
 
-<div style="display: inline_block">
-<img align="center" alt="icon-Js" height="30" width="30" src="
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 
 <a href="https://www.linkedin.com/in/jadna-caetano-b327b7233" target="_blank">

@@ -6,7 +6,8 @@
 
 
 
-
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=JadnaCaetano&show_icons=true&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadnaCaetano&layout=compact&theme=tokyonight"/>
 
 
 

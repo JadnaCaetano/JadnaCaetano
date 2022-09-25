@@ -1,4 +1,5 @@
-Hi! I'm Jadna Caetano. 
+<h1 align="center"> Hi! I'm Jadna Caetano.</h1>
+
 I study software development at Senac University in Palhoça. 💻
 
 

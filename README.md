@@ -11,6 +11,7 @@
 ●  My name is Jadna Caetano.
 
 ● I'm currently a <i>software development</i> student at Senac University. 💻
+<br/>   
 	
 <header><h1> I'm learning: </h1></header>   
 	

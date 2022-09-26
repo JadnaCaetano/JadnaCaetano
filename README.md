@@ -25,7 +25,7 @@
 
 
 <br/> 
-<header><h1>Visit my Linkedin profile:</h1></header>   
+<header><h3>Visit my Linkedin profile:How to reach me:</h3></header>   
 <br/>
 <a href="https://www.linkedin.com/in/jadna-caetano-b327b7233" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">

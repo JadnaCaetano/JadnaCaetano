@@ -5,8 +5,7 @@
             </head>
             <body>
  <ul>                
-<section> Hi! I'm <b>Jadna Caetano</b><i></section>
-<hr></hr>
+<section><b> Hi! I'm <b>Jadna Caetano</b><i></section><hr></hr>
 
  </ul>
 <pr><br></br></pr><hr></hr>

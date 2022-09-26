@@ -4,7 +4,7 @@
       
        <body>
  <ul>                
-<section><b> Hi! I'm <b>Jadna Caetano</b><i></section><hr></hr>
+<b> Hi! I'm <b>Jadna Caetano</b><i></section><hr></hr>
 
  </ul>
 <pr><br></br></pr><hr></hr>

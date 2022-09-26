@@ -10,7 +10,7 @@
  </ul>
 <pr><br></br></pr><hr></hr>
         <ul>
-<section><l1>Currently: I'm a software development student at Senac University.</l1></section>
+<l1>Currently: I'm a software development student at Senac University.</l1>
 
           </body>
 </html>

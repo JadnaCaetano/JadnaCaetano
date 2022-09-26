@@ -5,7 +5,7 @@
                      
 <b> Hi! I'm <b>Jadna Caetano</b><i>
 
-<l1>Currently: I'm a software development student at Senac University.</l1>
+<l1>I'm currently a software development student at Senac University. 💻</l1>
 
         
 </html>

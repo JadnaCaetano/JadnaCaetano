@@ -3,8 +3,10 @@
    
    <header><h1>Hey! 👋</h1></header>
    
-   > git clone https://github.com/JadnaCaetano.git
-                     
+![visitors](https://visitor-badge.glitch.me/badge?page_id=JadnaCaetano.id)
+ 
+<br/>   
+   
 ● I'm Jadna Caetano
 
 ● I'm currently a <i>software development</i> student at Senac University. 💻

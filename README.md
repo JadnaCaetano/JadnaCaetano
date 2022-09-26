@@ -1,8 +1,20 @@
-<h1 align="center"> Hi! I'm Jadna Caetano.</h1>
 
-<h4 align="center"> 
-     I study software development at Senac University.
-</h4>
+<html>
+       <head>
+              <title>Jadna Caetano</title>
+            </head>
+            <body>
+ <ul>                
+<section> Hi! I'm <b>Jadna Caetano</b><i></section>
+<hr></hr>
+
+ </ul>
+<pr><br></br></pr><hr></hr>
+        <ul>
+<section><l1>Currently: I'm a software development student at Senac University.</l1></section>
+
+          </body>
+</html>
 
 
 <a href="https://www.linkedin.com/in/jadna-caetano-b327b7233" target="_blank">

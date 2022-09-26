@@ -24,8 +24,6 @@
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 
-<div class="col-sm-10">
-			            			<input type="email" class="form-control" id="email-forgot" name="Jadna Caetano" placeholder="jadna.caetano@gmail.com">
-
+			            			
 </html>
 

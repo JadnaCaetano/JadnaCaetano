@@ -9,9 +9,7 @@
 <br/>   
 
 	
-●  My name is Jadna Caetano.
-
-● I'm currently a <i>software development</i> student at Senac University. 
+●  My name is Jadna Caetano. I'm currently a <i>software development</i> student at Senac University. 
 	
 <br/>   
  	

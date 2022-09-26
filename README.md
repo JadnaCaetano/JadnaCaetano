@@ -3,7 +3,7 @@
    
    <header><h1>Hey! 👋</h1></header>
                      
-● I'm <b>Jadna Caetano<i>
+● I'm Jadna Caetano<i>
 
 ● I'm currently a software development student at Senac University. 💻
 

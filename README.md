@@ -4,7 +4,7 @@
    <header><h1>Hey! 👋</h1></header>
    
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JadnaCaetano.id)
-(https://github.com/JadnaCaetano) [![GitHub followers](https://img.shields.io/github/followers/JadnaCaetano.svg?style=social&label=Follow&maxAge=2592000)](https://github.co/JadnaCaetano?tab-followers)
+[![GitHub followers](https://img.shields.io/github/followers/JadnaCaetano.svg?style=social&label=Follow&maxAge=2592000)](https://github.co/JadnaCaetano?tab-followers)
  
 <br/>   
    

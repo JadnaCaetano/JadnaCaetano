@@ -1,9 +1,8 @@
 
 <html>
-       <head>
-              <title>Jadna Caetano</title>
-            </head>
-            <body>
+   <header><h1>Jadna</h1></header>
+      
+       <body>
  <ul>                
 <section><b> Hi! I'm <b>Jadna Caetano</b><i></section><hr></hr>
 

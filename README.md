@@ -25,7 +25,7 @@
    
 <br/>  
 <img height="210em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JadnaCaetano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadnaCaetano&layout=compact&langs_count=8&theme=dracula"/><img 
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadnaCaetano&layout=compact&langs_count=8&theme=dracula"/><img 
 
 <br/>  
 

@@ -6,6 +6,11 @@
 ● I'm Jadna Caetano<i>
 
 ● I'm currently a software development student at Senac University. 💻
+   
+
+<header><h1> 👀 Stats</h1></header>   
+
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JadnaCaetano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
         
 </html>

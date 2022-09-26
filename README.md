@@ -25,7 +25,6 @@
 
 
 <br/> 
-<br/>
 <header><h1>Visit my linkedim profile:</h1></header>   
 <br/>
 <a href="https://www.linkedin.com/in/jadna-caetano-b327b7233" target="_blank">

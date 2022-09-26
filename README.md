@@ -23,7 +23,7 @@
    
 <br/>  
 <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JadnaCaetano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadnaCaetano&layout=compact&langs_count=8&theme=dracula"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"  width="40" height="40"/>
+<img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadnaCaetano&layout=compact&langs_count=8&theme=dracula"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
 
 <header><h2>📫 How to reach me:</h2></header>   
 <br/>

@@ -3,9 +3,9 @@
    
    <header><h1>Hey! 👋</h1></header>
                      
-● I'm Jadna Caetano<i>
+● I'm Jadna Caetano
 
-● I'm currently a software development student at Senac University. 💻
+● I'm currently a <i>software development</i> student at Senac University. 💻
    
 
 <header><h1> 👀 Stats</h1></header>   

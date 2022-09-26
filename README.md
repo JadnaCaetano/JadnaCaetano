@@ -3,7 +3,7 @@
    
    <header><h1>Jadna</h1></header>
                      
-<b> Hi! I'm <b>Jadna Caetano</b><i></section><hr></hr>
+<b> Hi! I'm <b>Jadna Caetano</b><i>
 
 <l1>Currently: I'm a software development student at Senac University.</l1>
 

@@ -12,7 +12,7 @@
 
 ● I'm currently a <i>software development</i> student at Senac University. 💻
 
-<header><h1> 👀 Stats</h1></header>   
+<header><h2> 👀 Stats</h2></header>   
    
 <br/>  
 <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JadnaCaetano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

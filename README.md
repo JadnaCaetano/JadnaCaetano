@@ -2,9 +2,7 @@
 <html>
    
    <header><h1>Jadna</h1></header>
-      
-    
- <ul>                
+                     
 <b> Hi! I'm <b>Jadna Caetano</b><i></section><hr></hr>
 
 <l1>Currently: I'm a software development student at Senac University.</l1>

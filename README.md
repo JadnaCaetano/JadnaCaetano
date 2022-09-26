@@ -8,7 +8,7 @@
  
 <br/>   
    
-● I'm Jadna Caetano!
+●  My name is Jadna Caetano!
 
 ● I'm currently a <i>software development</i> student at Senac University. 💻
 

@@ -2,7 +2,7 @@
 <html>
    <header><h1>Jadna</h1></header>
       
-       <body>
+    
  <ul>                
 <b> Hi! I'm <b>Jadna Caetano</b><i></section><hr></hr>
 
@@ -11,7 +11,7 @@
         <ul>
 <l1>Currently: I'm a software development student at Senac University.</l1>
 
-          </body>
+        
 </html>
 
 

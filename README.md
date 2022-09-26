@@ -1,14 +1,14 @@
 
 <html>
-   
-   <header><h1>Hey! Welcome to my GitHub profile. 👋</h1></header>
+      
+<header><h1>Hey! Welcome to my GitHub profile. 👋</h1></header>
    
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JadnaCaetano.id)
 [![GitHub followers](https://img.shields.io/github/followers/JadnaCaetano.svg?style=social&label=Follow&maxAge=2592000)](https://github.co/JadnaCaetano?tab-followers)
  
 <br/>   
    
-●  My name is Jadna Caetano!
+●  My name is Jadna Caetano.
 
 ● I'm currently a <i>software development</i> student at Senac University. 💻
 
@@ -23,6 +23,9 @@
 <a href="https://www.linkedin.com/in/jadna-caetano-b327b7233" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
+
+<div class="col-sm-10">
+			            			<input type="email" class="form-control" id="email-forgot" name="Jadna Caetano" placeholder="jadna.caetano@gmail.com">
 
 </html>
 

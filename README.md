@@ -17,7 +17,8 @@ I am passionate about technology, I am looking for a job opportunity in the IT f
      
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JadnaCaetano)
 	
-How to reach me: [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="70" height="70"/>](https://www.linkedin.com/in/jadna-caetano-b327b7233) 
+How to reach me: 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="70" height="70"/>](https://www.linkedin.com/in/jadna-caetano-b327b7233) 
 			            			
 </html>
 

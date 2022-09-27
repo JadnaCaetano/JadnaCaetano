@@ -8,7 +8,7 @@
  
 	
 Hey! My name is Jadna Caetano. I'm currently a <i>software development</i> student at Senac University.</b>
-I am passionate about technology, I am looking for a job opportunity in the IT field to gain knowledge and further develop my professional skills.
+I am passionate about technology, I am looking for a job opportunity in the IT field to acquire knowledge and develop my professional skills.
 	 	
 	
 <header><h2>I'm learning </h2></header>   

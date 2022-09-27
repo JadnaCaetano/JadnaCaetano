@@ -7,8 +7,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/JadnaCaetano.svg?style=social&label=Follow&maxAge=2592000)](https://github.co/JadnaCaetano?tab-followers)
  
 	
-Hey! My name is Jadna Caetano. I'm currently a <i>software development</i> student at Senac University.</b>
-I am passionate about technology, I am looking for a job opportunity in the IT field to acquire knowledge and develop my professional skills.
+Hey! My name is Jadna Caetano. I'm currently a <i>software development</i> student at Senac University.
+</b>I am passionate about technology, I am looking for a job opportunity in the IT field to acquire knowledge and develop my professional skills.
 	 	
 	
 <header><h2>I'm learning </h2></header>   

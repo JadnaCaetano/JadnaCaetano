@@ -16,19 +16,12 @@
 	
 <header><h1>💻 I'm learning: </h1></header>   
 	
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50"/>
-
-<br/>  	
-
-	
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30" height="30"/>
+		
 <header><h1> 👀 Stats</h1></header>   
-   
-<br/>  
+     
 <img height="213em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JadnaCaetano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadnaCaetano&layout=compact&langs_count=8&theme=dracula"/><img 
-
-<br/>  
-
 	
 <header><h2>📫 How to reach me:</h2></header>   
 <br/>

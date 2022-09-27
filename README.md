@@ -3,8 +3,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=JadnaCaetano&style=flat-square&color=blue" alt=""/>
 	
-</div><header><h1>Welcome to my GitHub profile. ![image](https://user-images.githubusercontent.com/102521379/192574352-18209d9e-ad48-43fd-a3b4-49276a5e4d46.png)
-</h1></header>
+</div><header><h1>Welcome to my GitHub profile.</h1></header>
     	
 Hey! My name is Jadna Caetano. I'm currently a <i>software development</i> student at Senac University.
 I am passionate about technology, I am looking for a job opportunity in the IT field to acquire knowledge and develop my professional skills.

@@ -20,7 +20,7 @@ I am passionate about technology, I am looking for a job opportunity in the IT f
 	
 <header><h3>📫 How to reach me:</h3></header>   
 	
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jadna-caetano-b327b7233) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jadna-caetano-b327b7233) 
 			            			
 </html>
 

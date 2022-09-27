@@ -17,14 +17,14 @@ I am passionate about technology, I am looking for a job opportunity in the IT f
 <header><h2>Stats</h2></header>   
      
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JadnaCaetano)
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadnaCaetano&layout=compact&langs_count=8&theme=dracula"/>
 	
 <header><h3>📫 How to reach me:</h3></header>   
 
 <a href="https://www.linkedin.com/in/jadna-caetano-b327b7233" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
-
+	
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jadna-caetano-b327b7233) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]
 			            			
 </html>
 

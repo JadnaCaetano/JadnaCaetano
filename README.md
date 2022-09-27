@@ -1,9 +1,8 @@
 
 <html>
-
 	
 </div><header><h1>Welcome to my GitHub profile. 👋</h1></header>
-(https://github-readme-stats.vercel.app/api?username=JadnaCaetano)
+
     	
 Hey! My name is Jadna Caetano. I'm currently a <i>software development</i> student at Senac University.
 I am passionate about technology, I am looking for a job opportunity in the IT field to acquire knowledge and develop my professional skills.
@@ -20,6 +19,8 @@ I am passionate about technology, I am looking for a job opportunity in the IT f
 <header><h3>📫 How to reach me:</h3></header>   
 	
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="70" height="70"/>](https://www.linkedin.com/in/jadna-caetano-b327b7233) 
+
+<img src="https://komarev.com/ghpvc/?username=JadnaCaetano&style=flat-square&color=blue" alt=""/>
 			            			
 </html>
 

@@ -5,6 +5,7 @@
    
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JadnaCaetano.id)
 [![GitHub followers](https://img.shields.io/github/followers/JadnaCaetano.svg?style=social&label=Follow&maxAge=2592000)](https://github.co/JadnaCaetano?tab-followers)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JadnaCaetano)
  
 	
 Hey! My name is Jadna Caetano. I'm currently a <i>software development</i> student at Senac University.

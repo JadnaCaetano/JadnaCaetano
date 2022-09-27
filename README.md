@@ -3,7 +3,7 @@
       
 <header><h1>Welcome to my GitHub profile. 👋</h1></header>
    
-![visitors](https://visitor-badge.glitch.me/badge?page_id=JadnaCaetano.id)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JadnaCaetano)
 [![GitHub followers](https://img.shields.io/github/followers/JadnaCaetano.svg?style=social&label=Follow&maxAge=2592000)](https://github.co/JadnaCaetano?tab-followers)
  	
 Hey! My name is Jadna Caetano. I'm currently a <i>software development</i> student at Senac University.

@@ -2,6 +2,7 @@
 <html>
       	
 </div><header><h1>Welcome to my GitHub profile. 👋</h1></header>
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
     	
 Hey! My name is Jadna Caetano. I'm currently a <i>software development</i> student at Senac University.
 I am passionate about technology, I am looking for a job opportunity in the IT field to acquire knowledge and develop my professional skills.

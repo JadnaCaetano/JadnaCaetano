@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/JadnaCaetano.svg?style=social&label=Follow&maxAge=2592000)](https://github.co/JadnaCaetano?tab-followers)
  
 	
-●  Hey! My name is Jadna Caetano. I'm currently a <i>software development</i> student at Senac University. 
+<p> Hey! My name is Jadna Caetano. I'm currently a <i>software development</i> student at Senac University. 
 	 	
 	
 <header><h2>I'm learning </h2></header>   

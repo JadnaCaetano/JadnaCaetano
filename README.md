@@ -1,7 +1,5 @@
 
 <html>
-
-<div class="stat"><span class="stat-count">0</span><p class="stat-detail">Visitantes</p> [![GitHub followers](https://img.shields.io/github/followers/JadnaCaetano.svg?style=social&label=Follow&maxAge=2592000)](https://github.co/JadnaCaetano?tab-followers)
       	
 </div><header><h1>Welcome to my GitHub profile. 👋</h1></header>
     	

@@ -6,8 +6,7 @@
 </div><header><h1>Welcome to my GitHub profile!</h1></header>
     	
 Hey! My name is Jadna Caetano. I'm currently a <i>software development</i> student at Senac University.
-I'm passionate about technology, I'm looking for a job opportunity in the IT field to acquire knowledge and develop my professional skills.
-
+I'm passionate about technology, I currently work as a Support and Deployment Analyst.
 
 <header><h2>I have a basic knowledge </h2></header> 
 

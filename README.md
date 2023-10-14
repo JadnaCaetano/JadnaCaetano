@@ -28,8 +28,8 @@ With an analytical profile, solid experience in customer service, passion for so
 <header><h2>Databases</h2></header> 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="30" height="30"/> 
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="30" height="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="30" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="40" height="40"/> 
+
 	
 <header><h2>Most Used Languages</h2></header>  
 

@@ -18,17 +18,13 @@ With an analytical profile, solid experience in customer service, passion for so
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="70" height="70"/> 
 
 <header><h2>Tools</h2></header> 
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)  
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-
-<header><h2>Databases</h2></header> 
-
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="70" height="70"/> 
-
 	
 <header><h2>Most Used Languages</h2></header>  
 

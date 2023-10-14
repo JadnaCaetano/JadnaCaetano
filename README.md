@@ -18,7 +18,7 @@ With an analytical profile, solid experience in customer service, passion for so
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
-<img src="https://cdn-bdkok.nitrocdn.com/zASfOZhMHRaGYpKaSOphFIhUcxxDXZOx/assets/images/optimized/rev-f94c2f7/wp-content/uploads/2021/09/com037-600x600.jpg" width="40" height="28"/>
+<img src="https://cdn-bdkok.nitrocdn.com/zASfOZhMHRaGYpKaSOphFIhUcxxDXZOx/assets/images/optimized/rev-f94c2f7/wp-content/uploads/2021/09/com037-600x600.jpg" width="45" height="28"/>
                   
 <header><h2>Tools</h2></header> 
 

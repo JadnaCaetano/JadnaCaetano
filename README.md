@@ -10,7 +10,16 @@ Hey! Welcome to my GitHub profile!
 I am a technology enthusiast and am constantly updating my knowledge.
 With an analytical profile, solid experience in customer service, passion for solving problems and sharp critical thinking, I work in the Support and Implementation area. My fascination with software engineering and quality drives me to seek innovative and effective solutions to the challenges I encounter.
 
-<header><h2>I have a basic knowledge </h2></header> 
+<header><h2>Main Skills</h2></header>   
+	
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
+
+<header><h2>Tools</h2></header> 
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)  
@@ -20,15 +29,6 @@ With an analytical profile, solid experience in customer service, passion for so
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="30" height="30"/>
 	
-<header><h2>I'm learning </h2></header>   
-	
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
-
 <header><h2>Most Used Languages</h2></header>  
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JadnaCaetano&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)

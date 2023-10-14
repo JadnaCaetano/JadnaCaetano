@@ -28,6 +28,10 @@ With an analytical profile, solid experience in customer service, passion for so
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
 
+<header><h2>Most Used Languages</h2></header>  
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JadnaCaetano&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 <header><h2>GitHub Stats</h2></header>  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JadnaCaetano&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)

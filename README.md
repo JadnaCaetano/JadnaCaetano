@@ -19,8 +19,8 @@ With an analytical profile, solid experience in customer service, passion for so
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
 
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" width="45" height="45"/>
-
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45"/>
+          
 <header><h2>Tools</h2></header> 
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)

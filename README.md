@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=JadnaCaetano&style=flat-square&color=blue" alt=""/>
 	
 </div><header><h1>Welcome to my GitHub profile! 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="45" height="45"/>/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="45" height="45"/>
           </h1> </header>
     	
 Hey! Welcome to my GitHub profile! 

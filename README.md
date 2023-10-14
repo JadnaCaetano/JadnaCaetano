@@ -27,8 +27,7 @@ With an analytical profile, solid experience in customer service, passion for so
 
 <header><h2>Databases</h2></header> 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="30" height="30"/> 
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="50" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="70" height="70"/> 
 
 	
 <header><h2>Most Used Languages</h2></header>  

@@ -21,6 +21,10 @@ With an analytical profile, solid experience in customer service, passion for so
 <header><h2>How to reach me:</header></h2> 
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="70" height="70"/>](https://www.linkedin.com/in/jadna-caetano-b327b7233) 
+
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/jadna_ti/)
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:jadna.caetano@gmail.com)
 			            			
 </html>
 

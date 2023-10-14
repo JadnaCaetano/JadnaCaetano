@@ -27,7 +27,9 @@ With an analytical profile, solid experience in customer service, passion for so
 
 <header><h2>Databases</h2></header> 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="30" height="30"/> 
+<img src="https://icons8.com.br/icon/38561/postgreesql" width="30" height="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="30" height="30"/>
 	
 <header><h2>Most Used Languages</h2></header>  
 

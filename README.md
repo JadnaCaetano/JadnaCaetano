@@ -7,8 +7,7 @@
     	
 Hey! Welcome to my GitHub profile! 
 
-I am a technology enthusiast and am constantly updating my knowledge.
-With an analytical profile, solid experience in customer service, passion for solving problems and sharp critical thinking, I work in the Support and Implementation area. My fascination with software engineering and quality drives me to seek innovative and effective solutions to the challenges I encounter.
+I am a technology enthusiast and am constantly updating my knowledge. I currently work as a Technical Support Analyst.
 
 <header><h2>Main Skills</h2></header>   
 	

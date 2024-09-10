@@ -16,7 +16,7 @@ With an analytical profile, solid experience in customer service, passion for so
 <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="45" height="28"/>
 <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="45" height="28"/>
 <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="45" height="28"/>
-<img src="https://img.icons8.com/?size=100&id=4ZM6CrdtsQVN&format=png&color=000000" width="45" height="28"/>
+<img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" width="45" height="28"/>
                   
 <header><h2>Tools</h2></header> 
 

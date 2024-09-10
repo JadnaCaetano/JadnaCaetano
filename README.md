@@ -21,7 +21,6 @@ With an analytical profile, solid experience in customer service, passion for so
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)  
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 	
 <header><h2>How to reach me:</header></h2> 
 

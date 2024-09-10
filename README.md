@@ -13,8 +13,6 @@ With an analytical profile, solid experience in customer service, passion for so
 <header><h2>Main Skills</h2></header>   
 	
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-<img src="https://cdn-bdkok.nitrocdn.com/zASfOZhMHRaGYpKaSOphFIhUcxxDXZOx/assets/images/optimized/rev-f94c2f7/wp-content/uploads/2021/09/com037-600x600.jpg" width="45" height="28"/>
-
 <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="45" height="28"/>
                   
 <header><h2>Tools</h2></header> 

@@ -7,7 +7,7 @@
     	
 Hey! Welcome to my GitHub profile! 
 
-I am a technology enthusiast and am constantly updating my knowledge. I currently work as a Technical Support Analyst.
+I am a technology enthusiast and am constantly updating my knowledge. 
 
 <header><h2>Main Skills</h2></header>   
 	

@@ -4,8 +4,6 @@
 <img src="https://komarev.com/ghpvc/?username=JadnaCaetano&style=flat-square&color=blue" alt=""/>
 	
 </div><header><h1>Welcome to my GitHub profile!</h1></header>
-    	
-Hey! Welcome to my GitHub profile! 
 
 I am a technology enthusiast and am constantly updating my knowledge. 
 

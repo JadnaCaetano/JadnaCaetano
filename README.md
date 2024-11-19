@@ -8,8 +8,7 @@
 I am a technology enthusiast and am constantly updating my knowledge. 
 
 <header><h2>Main Skills</h2></header>   
-	
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
 <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="45" height="28"/>
 <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="45" height="28"/>
 <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" width="45" height="28"/>
